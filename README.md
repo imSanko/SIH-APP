@@ -1,5 +1,5 @@
 
-# Building an App with automation to locate you and help to buy "SOLAR PANNEL" with 0% third party vendor cost
+# Building an App to Automate Solar Cost !
 
 Built with AndroidX Support
 
