@@ -1,5 +1,5 @@
 
-# Building an App to Automate Solar Cost !
+# saptadeep_s_application3
 
 Built with AndroidX Support
 
@@ -7,11 +7,6 @@ Requires Android Studio Arctic Fox | 2020.3.1 or higher.
 
 Current Kotlin Version 1.7.20
 
-# Build Languages 
-
-Kotlin 1.7. 20
-
-Flutter 3:100 
 
 ### SDK Versions
 
