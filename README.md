@@ -1,8 +1,7 @@
 
-# Building an App with automation to locate you and help to buy "SOLAR PANNEL" with 0, third party vendor cost
+# Building an App with automation to locate you and help to buy "SOLAR PANNEL" with 0% third party vendor cost
 
 Built with AndroidX Support
-
 
 Requires Android Studio Arctic Fox | 2020.3.1 or higher.
 
