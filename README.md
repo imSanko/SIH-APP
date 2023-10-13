@@ -1,4 +1,3 @@
-
 # Saptadeep_Application3
 
 Built with AndroidX Support
